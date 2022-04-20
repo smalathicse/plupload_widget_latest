@@ -1,0 +1,13 @@
+name: 'Plupload file widget'
+description: 'Provides a plupload widget.'
+type: module
+package: Media
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - plupload
+
+# Information added by Drupal.org packaging script on 2021-10-16
+version: '2.0.0-beta1'
+project: 'plupload_widget'
+datestamp: 1634406813
